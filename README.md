@@ -1,5 +1,5 @@
 
-<a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2018/11/16/c96b17a213106b3ecaa1f1a06ffb18ff-full.png" border="0"/></a>
+<a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2018/11/16/c96b17a213106b3ecaa1f1a06ffb18ff-full.png" border="0"/></a><br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
